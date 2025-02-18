@@ -1,0 +1,18 @@
+.hlx/*
+coverage/*
+logs/*
+node_modules
+.parcel-cache
+
+.DS_Store
+*.bak
+
+.vscode/
+.htmlvalidate.json
+.htmlvalidateignore
+
+*.code-workspace
+*.role.now
+
+Access Control/
+
