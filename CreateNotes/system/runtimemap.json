@@ -1,0 +1,314 @@
+{
+  "system": {
+    "sys_user_role": true,
+    "agent_assist_recommendation": true,
+    "asmt_metric": true,
+    "asmt_signature": true,
+    "sys_atf_step_config": true,
+    "sys_atf_step": true,
+    "sys_client_extension_point": true,
+    "sys_script_client": true,
+    "dl_u_priority": true,
+    "sys_ui_extension_point": true,
+    "sys_ui_policy": true,
+    "sys_ui_script": true,
+    "connect_action": true,
+    "content_block": true,
+    "content_block_detail": true,
+    "content_block_programmatic": true,
+    "content_block_static": true,
+    "content_css": true,
+    "cxs_table_config": true,
+    "sys_relationship": true,
+    "sys_db_object": true,
+    "sys_email_client_template": true,
+    "sys_email_canned_message": true,
+    "sys_recipient_qualifier": true,
+    "sys_ui_context_menu": true,
+    "sys_embedded_help_content": true,
+    "sys_ui_list_control": true,
+    "cmn_map_page": true,
+    "cmn_schedule_page": true,
+    "sys_ui_style": true,
+    "cmn_timeline_page": true,
+    "sys_ui_macro": true,
+    "sys_ui_page": true,
+    "sysrule_view": true,
+    "sys_embedded_tour_step": true,
+    "scheduled_data_import": true,
+    "sys_ws_operation": true,
+    "sys_web_service": true,
+    "sys_transform_map": true,
+    "mid_selector_override": true,
+    "ecc_agent_capability": true,
+    "ecc_agent_capability_value_test": true,
+    "ecc_agent_property": true,
+    "ecc_agent_script_include": true,
+    "sys_script_ajax": true,
+    "process_step_approval": true,
+    "bsm_action": true,
+    "ci_identifier": true,
+    "discovery_classy": true,
+    "clone_cleanup_script": true,
+    "csm_field_map": true,
+    "csm_table_map": true,
+    "sys_declarative_action_assignment": true,
+    "diagrammer_action": true,
+    "sys_dictionary": true,
+    "discovery_port_probe": true,
+    "sys_ui_title": true,
+    "sys_transform_entry": true,
+    "sys_impex_map": true,
+    "sys_installation_exit": true,
+    "sys_ui_list_script_client": true,
+    "sys_ui_list_script_server": true,
+    "live_table_notification": true,
+    "mtg_definition": true,
+    "sys_navigator": true,
+    "sys_nav_link": true,
+    "pwd_cred_store": true,
+    "pwd_extension_type": true,
+    "discovery_probes": true,
+    "expert_panel_template": true,
+    "sysauto_query_builder": true,
+    "sysauto": true,
+    "sys_service_api": true,
+    "sysevent_email_style": true,
+    "chg_soc_style_rule_core": true,
+    "sys_listener_detail": true,
+    "sys_transform_script": true,
+    "item_option_new": true,
+    "sys_home": true,
+    "expert_panel_transition": true,
+    "expert_panel": true,
+    "expert_ui_policy": true,
+    "sys_app_module": true,
+    "sys_ui_module": true,
+    "sys_script_email": true,
+    "sysevent_email_template": true,
+    "sysevent_in_email_action": true,
+    "sysevent_email_action": true,
+    "sys_push_notif_act_script": true,
+    "sys_push_notif_msg_content": true,
+    "trigger_rule": true,
+    "sys_rest_message": true,
+    "scheduled_data_export": true,
+    "sys_soap_message_function": true,
+    "sys_soap_message": true,
+    "pa_scripts": true,
+    "pc_vendor_cat_item": true,
+    "sys_properties_category": true,
+    "metric_definition": true,
+    "sysauto_report": true,
+    "cmn_relative_duration": true,
+    "risk_conditions": true,
+    "cmn_schedule": true,
+    "sys_script": true,
+    "sys_extension_point": true,
+    "sys_script_fix": true,
+    "sys_processor": true,
+    "sysauto_script": true,
+    "sysevent_script_action": true,
+    "sys_script_include": true,
+    "sys_ui_action": true,
+    "sc_ic_aprvl_type_defn_staging": true,
+    "catalog_script_client": true,
+    "sc_cat_item": true,
+    "catalog_ui_policy": true,
+    "sc_cat_item_option": true,
+    "sc_cat_item_guide": true,
+    "sc_cat_item_producer": true,
+    "sc_ic_task_assign_defn_staging": true,
+    "user_criteria": true,
+    "sysrule_escalate": true,
+    "sp_ng_template": true,
+    "sp_instance": true,
+    "sp_search_source": true,
+    "sp_page": true,
+    "sp_portal": true,
+    "sp_css": true,
+    "sp_theme": true,
+    "sp_angular_provider": true,
+    "sp_widget": true,
+    "trend_definition": true,
+    "sys_ui_ng_action": true,
+    "sys_script_vtable": true,
+    "sn_templated_snip_note_template": true,
+    "sys_script_validator": true,
+    "sys_email_filter": true,
+    "sys_sg_data_item": true,
+    "sys_email_layout": true,
+    "sys_process_flow": true,
+    "sys_widgets": true,
+    "wf_element_activity": true,
+    "wf_activity_definition": true,
+    "wf_ui_policy": true
+  },
+  "Access Control": {
+    "Roles": {
+      "x_snc_createnotes.note_user": {
+        "sys_id": "037be169090232007f44e1046c8ff602",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874319,
+        "CURRENT_SERVER_MOD_TIME": 1491853725000
+      }
+    }
+  },
+  "Service Portal": {
+    "Widgets": {
+      "Notes  Body": {
+        "sys_id": "7a7543e8db3133000613a08a4896195e",
+        "sys_updated_on": "2025-02-17 01:27:21",
+        "SERVER_MOD_TIME": 1739773641000,
+        "LOCAL_MOD_TIME": 1739755635963,
+        "CURRENT_LOCAL_MOD_TIME": 1739755635963,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1739773641000,
+        "lastmodified": 1739755641546
+      },
+      "Notes List": {
+        "sys_id": "06948fa8db3133000613a08a4896194c",
+        "sys_updated_on": "2019-05-30 19:15:59",
+        "SERVER_MOD_TIME": 1559258159000,
+        "LOCAL_MOD_TIME": 1739751874795,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874795,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1559258159000
+      }
+    },
+    "Instances": {
+      "34d587e4db3133000613a08a48961960": {
+        "sys_id": "34d587e4db3133000613a08a48961960",
+        "sys_updated_on": "2019-05-30 18:18:27",
+        "SERVER_MOD_TIME": 1559254707000,
+        "LOCAL_MOD_TIME": 1739751874756,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874756,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1559254707000
+      },
+      "c2d583a8db3133000613a08a48961974": {
+        "sys_id": "c2d583a8db3133000613a08a48961974",
+        "sys_updated_on": "2019-05-30 18:18:32",
+        "SERVER_MOD_TIME": 1559254712000,
+        "LOCAL_MOD_TIME": 1739751874828,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874828,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1559254712000
+      }
+    },
+    "Service Portal Pages": {
+      "notes_home": {
+        "sys_id": "a61956e1094232007f44e1046c8ff68b",
+        "sys_updated_on": "2017-04-10 19:08:04",
+        "SERVER_MOD_TIME": 1491865684000,
+        "LOCAL_MOD_TIME": 1739751874775,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874775,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1491865684000
+      }
+    },
+    "Service Portals": {
+      "CreateNotes": {
+        "sys_id": "b4c8d2e1094232007f44e1046c8ff652",
+        "sys_updated_on": "2017-04-10 19:12:21",
+        "SERVER_MOD_TIME": 1491865941000,
+        "LOCAL_MOD_TIME": 1739751874788,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874788,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1491865941000
+      }
+    }
+  },
+  "Navigation": {
+    "Modules (Mobile)": {
+      "Notes": {
+        "sys_id": "108b6569090232007f44e1046c8ff67d",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874319,
+        "CURRENT_SERVER_MOD_TIME": 1491853731000
+      }
+    },
+    "Modules": {
+      "Notes": {
+        "sys_id": "dc8b6569090232007f44e1046c8ff677",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874319,
+        "CURRENT_SERVER_MOD_TIME": 1491853730000
+      }
+    }
+  },
+  "Miscellaneous": {
+    "Dictionary Entries": {
+      "Title": {
+        "sys_id": "7aca610753eb161099a831f0a0490ed4",
+        "sys_updated_on": "2019-05-30 23:23:12",
+        "SERVER_MOD_TIME": 1559272992000,
+        "LOCAL_MOD_TIME": 1739751874775,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874775,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1559272992000
+      },
+      "User": {
+        "sys_id": "76ca610753eb161099a831f0a0490ee2",
+        "sys_updated_on": "2019-05-30 23:24:31",
+        "SERVER_MOD_TIME": 1559273071000,
+        "LOCAL_MOD_TIME": 1739751874800,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874800,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1559273071000
+      },
+      "Note": {
+        "sys_id": "36ca610753eb161099a831f0a0490ed1",
+        "sys_updated_on": "2019-05-30 23:23:11",
+        "SERVER_MOD_TIME": 1559272991000,
+        "LOCAL_MOD_TIME": 1739751874803,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874803,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1559272991000
+      },
+      "x_snc_createnotes_note": {
+        "sys_id": "b2ca610753eb161099a831f0a0490ecb",
+        "sys_updated_on": "2019-05-30 23:23:12",
+        "SERVER_MOD_TIME": 1559272992000,
+        "LOCAL_MOD_TIME": 1739751874821,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874821,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1559272992000
+      },
+      "Number": {
+        "sys_id": "f2ca610753eb161099a831f0a0490ed3",
+        "sys_updated_on": "2019-05-30 23:23:12",
+        "SERVER_MOD_TIME": 1559272992000,
+        "LOCAL_MOD_TIME": 1739751874985,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874985,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1559272992000
+      }
+    }
+  },
+  "Data Model": {
+    "Tables": {
+      "Note": {
+        "sys_id": "e6ca610753eb161099a831f0a0490e96",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_LOCAL_MOD_TIME": 1739751874319,
+        "CURRENT_SERVER_MOD_TIME": 1491853735000
+      }
+    }
+  }
+}
